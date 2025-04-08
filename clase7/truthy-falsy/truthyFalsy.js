@@ -9,7 +9,7 @@
 
 
 const nombre = "Piero";
-if (nombre) {
+if (nombre ) {
   console.log("Bienvenido/a: " + nombre);
 } else {
   console.log("por favor ingrese su nombre");
